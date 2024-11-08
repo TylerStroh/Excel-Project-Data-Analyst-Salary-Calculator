@@ -7,7 +7,7 @@
 
 ## Introduction  
 
-This data jobs salary dashboard helps job seekers like myself cycle through different job titles to help find the average salaries for those jobs and what job site had the most postings to help them find more opportunities.
+This data jobs salary dashboard helps job seekers like myself cycle through different job titles to help find the median salaries for those jobs and what job site had the most postings to help them find more opportunities.
 
 ## Excel Skills Used
 
@@ -119,7 +119,7 @@ This chart in the dashboard is used to help highlight the median salary for data
 This chart in the dashboard is used to highlight geographical differences in the data job market
 
 - **Excel Features:** Ulitlizing the map chart feature I was able to plot median salaries based on country
-- **Design:** The color of the highlighted countries changes based on the salary, darker shade meaning a higher salary on average
+- **Design:** The color of the highlighted countries changes based on the salary, darker shade meaning a higher salary for that position
 - **Insights:** Looking at this graph it helps give a quick grasp of the salary differences throughout the different countries
 
 ![third chart](https://github.com/user-attachments/assets/4fad2ef6-3599-48fc-9378-a3d5ce0d2977)
